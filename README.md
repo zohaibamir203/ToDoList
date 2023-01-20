@@ -1,6 +1,6 @@
 # ToDoList
 
-An online applicated developed using MERN Technology. 
+An online applicated developed using Express, Node.js and Mongodb. 
  
 
 <!-- ABOUT THE PROJECT -->
